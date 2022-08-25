@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title> Data Customer</title>
+  </head>
+    <h1> Data Customer</h1>
+  <body>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Nomor Urut</th>
+        <th>Nomor Customer</th>
+        <th>Nama Lengkap</th>
+        <th>Email</th>
+        <th>Total Pengeluaran</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>1234</td>
+        <td>Novi</td>
+        <td>novi@gmail.com</td>
+        <td>100.000</td>
+      </tr>
+      <td>2</td>
+        <td>2567</td>
+        <td>Moni</td>
+        <td>Moni@gmail.com</td>
+        <td>250.000</td>
+        
+    </tbody>
+  </table>
+  </body>
+  
+</html>
